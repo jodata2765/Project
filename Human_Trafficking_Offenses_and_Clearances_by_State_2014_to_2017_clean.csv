@@ -1,0 +1,605 @@
+,year_data,year,region,region_description,state,offense,occurrence,age,cleared,population,occ_per_100k,clr_per_100k
+0,0,2014,9,Southwest/Pacific,Alaska,commercial sex act,11,adult,3,736307,1.493942064926722,0.40743874498001514
+1,0,2014,9,Southwest/Pacific,Alaska,commercial sex act,11,juvenile,0,736307,1.493942064926722,0.0
+2,0,2014,9,Southwest/Pacific,Alaska,involuntary servitude,0,adult,0,736307,0.0,0.0
+3,0,2014,9,Southwest/Pacific,Alaska,involuntary servitude,0,juvenile,0,736307,0.0,0.0
+4,1,2015,9,Southwest/Pacific,Alaska,commercial sex act,10,adult,1,737547,1.3558457969458217,0.13558457969458218
+5,1,2015,9,Southwest/Pacific,Alaska,commercial sex act,10,juvenile,0,737547,1.3558457969458217,0.0
+6,1,2015,9,Southwest/Pacific,Alaska,involuntary servitude,0,adult,0,737547,0.0,0.0
+7,1,2015,9,Southwest/Pacific,Alaska,involuntary servitude,0,juvenile,0,737547,0.0,0.0
+8,2,2016,9,Southwest/Pacific,Alaska,commercial sex act,11,adult,8,741504,1.483471431037459,1.0788883134817884
+9,2,2016,9,Southwest/Pacific,Alaska,commercial sex act,11,juvenile,0,741504,1.483471431037459,0.0
+10,2,2016,9,Southwest/Pacific,Alaska,involuntary servitude,1,adult,0,741504,0.13486103918522355,0.0
+11,2,2016,9,Southwest/Pacific,Alaska,involuntary servitude,1,juvenile,0,741504,0.13486103918522355,0.0
+12,3,2017,9,Southwest/Pacific,Alaska,commercial sex act,2,adult,0,739786,0.2703484521199374,0.0
+13,3,2017,9,Southwest/Pacific,Alaska,commercial sex act,2,juvenile,0,739786,0.2703484521199374,0.0
+14,3,2017,9,Southwest/Pacific,Alaska,involuntary servitude,1,adult,0,739786,0.1351742260599687,0.0
+15,3,2017,9,Southwest/Pacific,Alaska,involuntary servitude,1,juvenile,0,739786,0.1351742260599687,0.0
+16,0,2014,9,Southwest/Pacific,Arizona,commercial sex act,15,adult,8,6733840,0.22275551542656197,0.11880294156083306
+17,0,2014,9,Southwest/Pacific,Arizona,commercial sex act,15,juvenile,0,6733840,0.22275551542656197,0.0
+18,0,2014,9,Southwest/Pacific,Arizona,involuntary servitude,0,adult,0,6733840,0.0,0.0
+19,0,2014,9,Southwest/Pacific,Arizona,involuntary servitude,0,juvenile,0,6733840,0.0,0.0
+20,1,2015,9,Southwest/Pacific,Arizona,commercial sex act,5,adult,6,6833596,0.07316791920388621,0.08780150304466346
+21,1,2015,9,Southwest/Pacific,Arizona,commercial sex act,5,juvenile,0,6833596,0.07316791920388621,0.0
+22,1,2015,9,Southwest/Pacific,Arizona,involuntary servitude,1,adult,0,6833596,0.014633583840777242,0.0
+23,1,2015,9,Southwest/Pacific,Arizona,involuntary servitude,1,juvenile,0,6833596,0.014633583840777242,0.0
+24,2,2016,9,Southwest/Pacific,Arizona,commercial sex act,19,adult,5,6945452,0.2735603096817889,0.07198955517941813
+25,2,2016,9,Southwest/Pacific,Arizona,commercial sex act,19,juvenile,0,6945452,0.2735603096817889,0.0
+26,2,2016,9,Southwest/Pacific,Arizona,involuntary servitude,0,adult,0,6945452,0.0,0.0
+27,2,2016,9,Southwest/Pacific,Arizona,involuntary servitude,0,juvenile,0,6945452,0.0,0.0
+28,3,2017,9,Southwest/Pacific,Arizona,commercial sex act,92,adult,34,7048876,1.305172626103793,0.4823464052992279
+29,3,2017,9,Southwest/Pacific,Arizona,commercial sex act,92,juvenile,3,7048876,1.305172626103793,0.04255997693816716
+30,3,2017,9,Southwest/Pacific,Arizona,involuntary servitude,7,adult,4,7048876,0.09930661285572338,0.05674663591755622
+31,3,2017,9,Southwest/Pacific,Arizona,involuntary servitude,7,juvenile,0,7048876,0.09930661285572338,0.0
+32,0,2014,9,Southwest/Pacific,California,commercial sex act,0,adult,0,38625139,0.0,0.0
+33,0,2014,9,Southwest/Pacific,California,commercial sex act,0,juvenile,0,38625139,0.0,0.0
+34,0,2014,9,Southwest/Pacific,California,involuntary servitude,0,adult,0,38625139,0.0,0.0
+35,0,2014,9,Southwest/Pacific,California,involuntary servitude,0,juvenile,0,38625139,0.0,0.0
+36,3,2017,9,Southwest/Pacific,California,commercial sex act,0,adult,0,39399349,0.0,0.0
+37,3,2017,9,Southwest/Pacific,California,commercial sex act,0,juvenile,0,39399349,0.0,0.0
+38,3,2017,9,Southwest/Pacific,California,involuntary servitude,0,adult,0,39399349,0.0,0.0
+39,3,2017,9,Southwest/Pacific,California,involuntary servitude,0,juvenile,0,39399349,0.0,0.0
+40,0,2014,10,Rockies/Mid-West,Colorado,commercial sex act,11,adult,0,5351218,0.2055606779615407,0.0
+41,0,2014,10,Rockies/Mid-West,Colorado,commercial sex act,11,juvenile,0,5351218,0.2055606779615407,0.0
+42,0,2014,10,Rockies/Mid-West,Colorado,involuntary servitude,2,adult,0,5351218,0.037374668720280134,0.0
+43,0,2014,10,Rockies/Mid-West,Colorado,involuntary servitude,2,juvenile,0,5351218,0.037374668720280134,0.0
+44,1,2015,10,Rockies/Mid-West,Colorado,commercial sex act,11,adult,5,5452107,0.2017568620718559,0.09170766457811631
+45,1,2015,10,Rockies/Mid-West,Colorado,commercial sex act,11,juvenile,0,5452107,0.2017568620718559,0.0
+46,1,2015,10,Rockies/Mid-West,Colorado,involuntary servitude,6,adult,2,5452107,0.11004919749373956,0.03668306583124653
+47,1,2015,10,Rockies/Mid-West,Colorado,involuntary servitude,6,juvenile,0,5452107,0.11004919749373956,0.0
+48,2,2016,10,Rockies/Mid-West,Colorado,commercial sex act,12,adult,3,5540921,0.21657049432756756,0.05414262358189189
+49,2,2016,10,Rockies/Mid-West,Colorado,commercial sex act,12,juvenile,0,5540921,0.21657049432756756,0.0
+50,2,2016,10,Rockies/Mid-West,Colorado,involuntary servitude,22,adult,9,5540921,0.3970459062672072,0.1624278707456757
+51,2,2016,10,Rockies/Mid-West,Colorado,involuntary servitude,22,juvenile,0,5540921,0.3970459062672072,0.0
+52,3,2017,10,Rockies/Mid-West,Colorado,commercial sex act,49,adult,14,5615902,0.8725223481463886,0.24929209947039674
+53,3,2017,10,Rockies/Mid-West,Colorado,commercial sex act,49,juvenile,0,5615902,0.8725223481463886,0.0
+54,3,2017,10,Rockies/Mid-West,Colorado,involuntary servitude,7,adult,0,5615902,0.12464604973519837,0.0
+55,3,2017,10,Rockies/Mid-West,Colorado,involuntary servitude,7,juvenile,0,5615902,0.12464604973519837,0.0
+56,0,2014,3,Mideast South,Delaware,commercial sex act,0,adult,0,932596,0.0,0.0
+57,0,2014,3,Mideast South,Delaware,commercial sex act,0,juvenile,0,932596,0.0,0.0
+58,0,2014,3,Mideast South,Delaware,involuntary servitude,0,adult,0,932596,0.0,0.0
+59,0,2014,3,Mideast South,Delaware,involuntary servitude,0,juvenile,0,932596,0.0,0.0
+60,1,2015,3,Mideast South,Delaware,commercial sex act,0,adult,0,941413,0.0,0.0
+61,1,2015,3,Mideast South,Delaware,commercial sex act,0,juvenile,0,941413,0.0,0.0
+62,1,2015,3,Mideast South,Delaware,involuntary servitude,0,adult,0,941413,0.0,0.0
+63,1,2015,3,Mideast South,Delaware,involuntary servitude,0,juvenile,0,941413,0.0,0.0
+64,2,2016,3,Mideast South,Delaware,commercial sex act,0,adult,0,949216,0.0,0.0
+65,2,2016,3,Mideast South,Delaware,commercial sex act,0,juvenile,0,949216,0.0,0.0
+66,2,2016,3,Mideast South,Delaware,involuntary servitude,0,adult,0,949216,0.0,0.0
+67,2,2016,3,Mideast South,Delaware,involuntary servitude,0,juvenile,0,949216,0.0,0.0
+68,3,2017,3,Mideast South,Delaware,commercial sex act,5,adult,4,957078,0.5224234597389136,0.4179387677911309
+69,3,2017,3,Mideast South,Delaware,commercial sex act,5,juvenile,0,957078,0.5224234597389136,0.0
+70,3,2017,3,Mideast South,Delaware,involuntary servitude,0,adult,0,957078,0.0,0.0
+71,3,2017,3,Mideast South,Delaware,involuntary servitude,0,juvenile,0,957078,0.0,0.0
+72,0,2014,5,Gulf Coast East,Florida,commercial sex act,57,adult,44,19860330,0.2870042944905749,0.2215471746944789
+73,0,2014,5,Gulf Coast East,Florida,commercial sex act,57,juvenile,0,19860330,0.2870042944905749,0.0
+74,0,2014,5,Gulf Coast East,Florida,involuntary servitude,3,adult,3,19860330,0.01510548918371447,0.01510548918371447
+75,0,2014,5,Gulf Coast East,Florida,involuntary servitude,3,juvenile,0,19860330,0.01510548918371447,0.0
+76,1,2015,5,Gulf Coast East,Florida,commercial sex act,44,adult,23,20224249,0.21756061251025935,0.11372486563036285
+77,1,2015,5,Gulf Coast East,Florida,commercial sex act,44,juvenile,0,20224249,0.21756061251025935,0.0
+78,1,2015,5,Gulf Coast East,Florida,involuntary servitude,2,adult,0,20224249,0.009889118750466334,0.0
+79,1,2015,5,Gulf Coast East,Florida,involuntary servitude,2,juvenile,0,20224249,0.009889118750466334,0.0
+80,2,2016,5,Gulf Coast East,Florida,commercial sex act,98,adult,50,20629982,0.47503676930013805,0.24236569862251942
+81,2,2016,5,Gulf Coast East,Florida,commercial sex act,98,juvenile,0,20629982,0.47503676930013805,0.0
+82,2,2016,5,Gulf Coast East,Florida,involuntary servitude,7,adult,4,20629982,0.033931197807152716,0.019389255889801553
+83,2,2016,5,Gulf Coast East,Florida,involuntary servitude,7,juvenile,0,20629982,0.033931197807152716,0.0
+84,3,2017,5,Gulf Coast East,Florida,commercial sex act,65,adult,51,20976812,0.3098659605663625,0.24312559982899212
+85,3,2017,5,Gulf Coast East,Florida,commercial sex act,65,juvenile,0,20976812,0.3098659605663625,0.0
+86,3,2017,5,Gulf Coast East,Florida,involuntary servitude,24,adult,7,20976812,0.11441204697834924,0.03337018036868519
+87,3,2017,5,Gulf Coast East,Florida,involuntary servitude,24,juvenile,0,20976812,0.11441204697834924,0.0
+88,0,2014,9,Southwest/Pacific,Guam,commercial sex act,0,adult,0,160967,0.0,0.0
+89,0,2014,9,Southwest/Pacific,Guam,commercial sex act,0,juvenile,0,160967,0.0,0.0
+90,0,2014,9,Southwest/Pacific,Guam,involuntary servitude,0,adult,0,160967,0.0,0.0
+91,0,2014,9,Southwest/Pacific,Guam,involuntary servitude,0,juvenile,0,160967,0.0,0.0
+92,1,2015,9,Southwest/Pacific,Guam,commercial sex act,0,adult,0,161797,0.0,0.0
+93,1,2015,9,Southwest/Pacific,Guam,commercial sex act,0,juvenile,0,161797,0.0,0.0
+94,1,2015,9,Southwest/Pacific,Guam,involuntary servitude,0,adult,0,161797,0.0,0.0
+95,1,2015,9,Southwest/Pacific,Guam,involuntary servitude,0,juvenile,0,161797,0.0,0.0
+96,3,2017,9,Southwest/Pacific,Guam,commercial sex act,0,adult,0,164229,0.0,0.0
+97,3,2017,9,Southwest/Pacific,Guam,commercial sex act,0,juvenile,0,164229,0.0,0.0
+98,3,2017,9,Southwest/Pacific,Guam,involuntary servitude,0,adult,0,164229,0.0,0.0
+99,3,2017,9,Southwest/Pacific,Guam,involuntary servitude,0,juvenile,0,164229,0.0,0.0
+100,0,2014,9,Southwest/Pacific,Hawaii,commercial sex act,0,adult,0,1414862,0.0,0.0
+101,0,2014,9,Southwest/Pacific,Hawaii,commercial sex act,0,juvenile,0,1414862,0.0,0.0
+102,0,2014,9,Southwest/Pacific,Hawaii,involuntary servitude,0,adult,0,1414862,0.0,0.0
+103,0,2014,9,Southwest/Pacific,Hawaii,involuntary servitude,0,juvenile,0,1414862,0.0,0.0
+104,1,2015,9,Southwest/Pacific,Hawaii,commercial sex act,3,adult,0,1422484,0.2108986814614435,0.0
+105,1,2015,9,Southwest/Pacific,Hawaii,commercial sex act,3,juvenile,0,1422484,0.2108986814614435,0.0
+106,1,2015,9,Southwest/Pacific,Hawaii,involuntary servitude,0,adult,0,1422484,0.0,0.0
+107,1,2015,9,Southwest/Pacific,Hawaii,involuntary servitude,0,juvenile,0,1422484,0.0,0.0
+108,2,2016,9,Southwest/Pacific,Hawaii,commercial sex act,2,adult,0,1428105,0.14004572492918937,0.0
+109,2,2016,9,Southwest/Pacific,Hawaii,commercial sex act,2,juvenile,0,1428105,0.14004572492918937,0.0
+110,2,2016,9,Southwest/Pacific,Hawaii,involuntary servitude,0,adult,0,1428105,0.0,0.0
+111,2,2016,9,Southwest/Pacific,Hawaii,involuntary servitude,0,juvenile,0,1428105,0.0,0.0
+112,3,2017,9,Southwest/Pacific,Hawaii,commercial sex act,2,adult,1,1424203,0.14042941912072926,0.07021470956036463
+113,3,2017,9,Southwest/Pacific,Hawaii,commercial sex act,2,juvenile,0,1424203,0.14042941912072926,0.0
+114,3,2017,9,Southwest/Pacific,Hawaii,involuntary servitude,0,adult,0,1424203,0.0,0.0
+115,3,2017,9,Southwest/Pacific,Hawaii,involuntary servitude,0,juvenile,0,1424203,0.0,0.0
+116,0,2014,12,Northeast,Idaho,commercial sex act,0,adult,0,1631479,0.0,0.0
+117,0,2014,12,Northeast,Idaho,commercial sex act,0,juvenile,0,1631479,0.0,0.0
+118,0,2014,12,Northeast,Idaho,involuntary servitude,0,adult,0,1631479,0.0,0.0
+119,0,2014,12,Northeast,Idaho,involuntary servitude,0,juvenile,0,1631479,0.0,0.0
+120,1,2015,12,Northeast,Idaho,commercial sex act,0,adult,0,1651523,0.0,0.0
+121,1,2015,12,Northeast,Idaho,commercial sex act,0,juvenile,0,1651523,0.0,0.0
+122,1,2015,12,Northeast,Idaho,involuntary servitude,0,adult,0,1651523,0.0,0.0
+123,1,2015,12,Northeast,Idaho,involuntary servitude,0,juvenile,0,1651523,0.0,0.0
+124,3,2017,12,Northeast,Idaho,commercial sex act,0,adult,0,1718904,0.0,0.0
+125,3,2017,12,Northeast,Idaho,commercial sex act,0,juvenile,0,1718904,0.0,0.0
+126,3,2017,12,Northeast,Idaho,involuntary servitude,0,adult,0,1718904,0.0,0.0
+127,3,2017,12,Northeast,Idaho,involuntary servitude,0,juvenile,0,1718904,0.0,0.0
+128,0,2014,7,North Central,Illinois,commercial sex act,50,adult,0,12888962,0.38792883398989,0.0
+129,0,2014,7,North Central,Illinois,commercial sex act,50,juvenile,0,12888962,0.38792883398989,0.0
+130,0,2014,7,North Central,Illinois,involuntary servitude,17,adult,0,12888962,0.13189580355656258,0.0
+131,0,2014,7,North Central,Illinois,involuntary servitude,17,juvenile,0,12888962,0.13189580355656258,0.0
+132,1,2015,7,North Central,Illinois,commercial sex act,53,adult,0,12864342,0.41199153442904424,0.0
+133,1,2015,7,North Central,Illinois,commercial sex act,53,juvenile,0,12864342,0.41199153442904424,0.0
+134,1,2015,7,North Central,Illinois,involuntary servitude,8,adult,0,12864342,0.062187401423251965,0.0
+135,1,2015,7,North Central,Illinois,involuntary servitude,8,juvenile,0,12864342,0.062187401423251965,0.0
+136,2,2016,7,North Central,Illinois,commercial sex act,21,adult,0,12826895,0.1637184992938665,0.0
+137,2,2016,7,North Central,Illinois,commercial sex act,21,juvenile,0,12826895,0.1637184992938665,0.0
+138,2,2016,7,North Central,Illinois,involuntary servitude,3,adult,0,12826895,0.02338835704198093,0.0
+139,2,2016,7,North Central,Illinois,involuntary servitude,3,juvenile,0,12826895,0.02338835704198093,0.0
+140,3,2017,7,North Central,Illinois,commercial sex act,26,adult,0,12786196,0.2033442941121816,0.0
+141,3,2017,7,North Central,Illinois,commercial sex act,26,juvenile,0,12786196,0.2033442941121816,0.0
+142,3,2017,7,North Central,Illinois,involuntary servitude,8,adult,0,12786196,0.0625674751114405,0.0
+143,3,2017,7,North Central,Illinois,involuntary servitude,8,juvenile,0,12786196,0.0625674751114405,0.0
+144,0,2014,7,North Central,Indiana,commercial sex act,0,adult,0,6593533,0.0,0.0
+145,0,2014,7,North Central,Indiana,commercial sex act,0,juvenile,0,6593533,0.0,0.0
+146,0,2014,7,North Central,Indiana,involuntary servitude,0,adult,0,6593533,0.0,0.0
+147,0,2014,7,North Central,Indiana,involuntary servitude,0,juvenile,0,6593533,0.0,0.0
+148,1,2015,7,North Central,Indiana,commercial sex act,0,adult,0,6608296,0.0,0.0
+149,1,2015,7,North Central,Indiana,commercial sex act,0,juvenile,0,6608296,0.0,0.0
+150,1,2015,7,North Central,Indiana,involuntary servitude,0,adult,0,6608296,0.0,0.0
+151,1,2015,7,North Central,Indiana,involuntary servitude,0,juvenile,0,6608296,0.0,0.0
+152,2,2016,7,North Central,Indiana,commercial sex act,4,adult,0,6633344,0.06030141057059607,0.0
+153,2,2016,7,North Central,Indiana,commercial sex act,4,juvenile,2,6633344,0.06030141057059607,0.030150705285298035
+154,2,2016,7,North Central,Indiana,involuntary servitude,0,adult,0,6633344,0.0,0.0
+155,2,2016,7,North Central,Indiana,involuntary servitude,0,juvenile,0,6633344,0.0,0.0
+156,3,2017,7,North Central,Indiana,commercial sex act,2,adult,0,6660082,0.03002966029547384,0.0
+157,3,2017,7,North Central,Indiana,commercial sex act,2,juvenile,0,6660082,0.03002966029547384,0.0
+158,3,2017,7,North Central,Indiana,involuntary servitude,1,adult,0,6660082,0.01501483014773692,0.0
+159,3,2017,7,North Central,Indiana,involuntary servitude,1,juvenile,0,6660082,0.01501483014773692,0.0
+160,0,2014,10,Rockies/Mid-West,Kansas,commercial sex act,1,adult,1,2900896,0.03447210792803327,0.03447210792803327
+161,0,2014,10,Rockies/Mid-West,Kansas,commercial sex act,1,juvenile,0,2900896,0.03447210792803327,0.0
+162,0,2014,10,Rockies/Mid-West,Kansas,involuntary servitude,0,adult,0,2900896,0.0,0.0
+163,0,2014,10,Rockies/Mid-West,Kansas,involuntary servitude,0,juvenile,0,2900896,0.0,0.0
+164,1,2015,10,Rockies/Mid-West,Kansas,commercial sex act,0,adult,0,2909502,0.0,0.0
+165,1,2015,10,Rockies/Mid-West,Kansas,commercial sex act,0,juvenile,0,2909502,0.0,0.0
+166,1,2015,10,Rockies/Mid-West,Kansas,involuntary servitude,0,adult,0,2909502,0.0,0.0
+167,1,2015,10,Rockies/Mid-West,Kansas,involuntary servitude,0,juvenile,0,2909502,0.0,0.0
+168,2,2016,10,Rockies/Mid-West,Kansas,commercial sex act,0,adult,0,2911263,0.0,0.0
+169,2,2016,10,Rockies/Mid-West,Kansas,commercial sex act,0,juvenile,0,2911263,0.0,0.0
+170,2,2016,10,Rockies/Mid-West,Kansas,involuntary servitude,2,adult,1,2911263,0.0686987056820356,0.0343493528410178
+171,2,2016,10,Rockies/Mid-West,Kansas,involuntary servitude,2,juvenile,0,2911263,0.0686987056820356,0.0
+172,3,2017,10,Rockies/Mid-West,Kansas,commercial sex act,3,adult,2,2910689,0.10306838002960811,0.06871225335307207
+173,3,2017,10,Rockies/Mid-West,Kansas,commercial sex act,3,juvenile,0,2910689,0.10306838002960811,0.0
+174,3,2017,10,Rockies/Mid-West,Kansas,involuntary servitude,0,adult,0,2910689,0.0,0.0
+175,3,2017,10,Rockies/Mid-West,Kansas,involuntary servitude,0,juvenile,0,2910689,0.0,0.0
+176,0,2014,1,New England,Massachusetts,commercial sex act,6,adult,4,6763652,0.08870947233831664,0.059139648225544426
+177,0,2014,1,New England,Massachusetts,commercial sex act,6,juvenile,0,6763652,0.08870947233831664,0.0
+178,0,2014,1,New England,Massachusetts,involuntary servitude,1,adult,0,6763652,0.014784912056386107,0.0
+179,0,2014,1,New England,Massachusetts,involuntary servitude,1,juvenile,0,6763652,0.014784912056386107,0.0
+180,1,2015,1,New England,Massachusetts,commercial sex act,0,adult,0,6795891,0.0,0.0
+181,1,2015,1,New England,Massachusetts,commercial sex act,0,juvenile,0,6795891,0.0,0.0
+182,1,2015,1,New England,Massachusetts,involuntary servitude,2,adult,1,6795891,0.029429547943014393,0.014714773971507196
+183,1,2015,1,New England,Massachusetts,involuntary servitude,2,juvenile,0,6795891,0.029429547943014393,0.0
+184,2,2016,1,New England,Massachusetts,commercial sex act,0,adult,0,6826022,0.0,0.0
+185,2,2016,1,New England,Massachusetts,commercial sex act,0,juvenile,0,6826022,0.0,0.0
+186,2,2016,1,New England,Massachusetts,involuntary servitude,3,adult,3,6826022,0.04394946280571613,0.04394946280571613
+187,2,2016,1,New England,Massachusetts,involuntary servitude,3,juvenile,0,6826022,0.04394946280571613,0.0
+188,3,2017,1,New England,Massachusetts,commercial sex act,17,adult,5,6863246,0.2476962067220088,0.07285182550647318
+189,3,2017,1,New England,Massachusetts,commercial sex act,17,juvenile,0,6863246,0.2476962067220088,0.0
+190,3,2017,1,New England,Massachusetts,involuntary servitude,11,adult,2,6863246,0.160274016114241,0.02914073020258927
+191,3,2017,1,New England,Massachusetts,involuntary servitude,11,juvenile,0,6863246,0.160274016114241,0.0
+192,0,2014,6,Central,Michigan,commercial sex act,2,adult,2,9930589,0.020139792312419736,0.020139792312419736
+193,0,2014,6,Central,Michigan,commercial sex act,2,juvenile,0,9930589,0.020139792312419736,0.0
+194,0,2014,6,Central,Michigan,involuntary servitude,1,adult,0,9930589,0.010069896156209868,0.0
+195,0,2014,6,Central,Michigan,involuntary servitude,1,juvenile,0,9930589,0.010069896156209868,0.0
+196,1,2015,6,Central,Michigan,commercial sex act,3,adult,3,9932573,0.03020365417903297,0.03020365417903297
+197,1,2015,6,Central,Michigan,commercial sex act,3,juvenile,0,9932573,0.03020365417903297,0.0
+198,1,2015,6,Central,Michigan,involuntary servitude,0,adult,0,9932573,0.0,0.0
+199,1,2015,6,Central,Michigan,involuntary servitude,0,juvenile,0,9932573,0.0,0.0
+200,2,2016,6,Central,Michigan,commercial sex act,1,adult,1,9951890,0.01004834257613378,0.01004834257613378
+201,2,2016,6,Central,Michigan,commercial sex act,1,juvenile,0,9951890,0.01004834257613378,0.0
+202,2,2016,6,Central,Michigan,involuntary servitude,2,adult,0,9951890,0.02009668515226756,0.0
+203,2,2016,6,Central,Michigan,involuntary servitude,2,juvenile,0,9951890,0.02009668515226756,0.0
+204,3,2017,6,Central,Michigan,commercial sex act,11,adult,2,9976447,0.11025969465882995,0.020047217210696355
+205,3,2017,6,Central,Michigan,commercial sex act,11,juvenile,0,9976447,0.11025969465882995,0.0
+206,3,2017,6,Central,Michigan,involuntary servitude,11,adult,0,9976447,0.11025969465882995,0.0
+207,3,2017,6,Central,Michigan,involuntary servitude,11,juvenile,0,9976447,0.11025969465882995,0.0
+208,0,2014,7,North Central,Minnesota,commercial sex act,22,adult,5,5451522,0.4035570249922865,0.09171750568006512
+209,0,2014,7,North Central,Minnesota,commercial sex act,22,juvenile,0,5451522,0.4035570249922865,0.0
+210,0,2014,7,North Central,Minnesota,involuntary servitude,1,adult,1,5451522,0.018343501136013025,0.018343501136013025
+211,0,2014,7,North Central,Minnesota,involuntary servitude,1,juvenile,0,5451522,0.018343501136013025,0.0
+212,1,2015,7,North Central,Minnesota,commercial sex act,119,adult,77,5482503,2.1705414479481364,1.4044679957311468
+213,1,2015,7,North Central,Minnesota,commercial sex act,119,juvenile,0,5482503,2.1705414479481364,0.0
+214,1,2015,7,North Central,Minnesota,involuntary servitude,0,adult,0,5482503,0.0,0.0
+215,1,2015,7,North Central,Minnesota,involuntary servitude,0,juvenile,0,5482503,0.0,0.0
+216,2,2016,7,North Central,Minnesota,commercial sex act,235,adult,190,5523409,4.254618841371334,3.439904595151291
+217,2,2016,7,North Central,Minnesota,commercial sex act,235,juvenile,1,5523409,4.254618841371334,0.018104761027112063
+218,2,2016,7,North Central,Minnesota,involuntary servitude,0,adult,0,5523409,0.0,0.0
+219,2,2016,7,North Central,Minnesota,involuntary servitude,0,juvenile,0,5523409,0.0,0.0
+220,3,2017,7,North Central,Minnesota,commercial sex act,173,adult,146,5568155,3.1069537396139295,2.6220534449921025
+221,3,2017,7,North Central,Minnesota,commercial sex act,173,juvenile,1,5568155,3.1069537396139295,0.017959270171178786
+222,3,2017,7,North Central,Minnesota,involuntary servitude,0,adult,0,5568155,0.0,0.0
+223,3,2017,7,North Central,Minnesota,involuntary servitude,0,juvenile,0,5568155,0.0,0.0
+224,0,2014,8,Plains,Missouri,commercial sex act,5,adult,1,6056293,0.08255875334961502,0.016511750669923005
+225,0,2014,8,Plains,Missouri,commercial sex act,5,juvenile,1,6056293,0.08255875334961502,0.016511750669923005
+226,0,2014,8,Plains,Missouri,involuntary servitude,1,adult,0,6056293,0.016511750669923005,0.0
+227,0,2014,8,Plains,Missouri,involuntary servitude,1,juvenile,0,6056293,0.016511750669923005,0.0
+228,1,2015,8,Plains,Missouri,commercial sex act,13,adult,5,6071745,0.21410648833243162,0.08234864935862754
+229,1,2015,8,Plains,Missouri,commercial sex act,13,juvenile,0,6071745,0.21410648833243162,0.0
+230,1,2015,8,Plains,Missouri,involuntary servitude,0,adult,0,6071745,0.0,0.0
+231,1,2015,8,Plains,Missouri,involuntary servitude,0,juvenile,0,6071745,0.0,0.0
+232,2,2016,8,Plains,Missouri,commercial sex act,16,adult,12,6087203,0.26284649945139005,0.19713487458854254
+233,2,2016,8,Plains,Missouri,commercial sex act,16,juvenile,3,6087203,0.26284649945139005,0.049283718647135634
+234,2,2016,8,Plains,Missouri,involuntary servitude,0,adult,0,6087203,0.0,0.0
+235,2,2016,8,Plains,Missouri,involuntary servitude,0,juvenile,0,6087203,0.0,0.0
+236,3,2017,8,Plains,Missouri,commercial sex act,25,adult,15,6108612,0.40925827340155174,0.24555496404093105
+237,3,2017,8,Plains,Missouri,commercial sex act,25,juvenile,1,6108612,0.40925827340155174,0.01637033093606207
+238,3,2017,8,Plains,Missouri,involuntary servitude,3,adult,0,6108612,0.04911099280818621,0.0
+239,3,2017,8,Plains,Missouri,involuntary servitude,3,juvenile,0,6108612,0.04911099280818621,0.0
+240,0,2014,5,Gulf Coast East,Mississippi,commercial sex act,0,adult,0,2990623,0.0,0.0
+241,0,2014,5,Gulf Coast East,Mississippi,commercial sex act,0,juvenile,0,2990623,0.0,0.0
+242,0,2014,5,Gulf Coast East,Mississippi,involuntary servitude,0,adult,0,2990623,0.0,0.0
+243,0,2014,5,Gulf Coast East,Mississippi,involuntary servitude,0,juvenile,0,2990623,0.0,0.0
+244,1,2015,5,Gulf Coast East,Mississippi,commercial sex act,0,adult,0,2988693,0.0,0.0
+245,1,2015,5,Gulf Coast East,Mississippi,commercial sex act,0,juvenile,0,2988693,0.0,0.0
+246,1,2015,5,Gulf Coast East,Mississippi,involuntary servitude,0,adult,0,2988693,0.0,0.0
+247,1,2015,5,Gulf Coast East,Mississippi,involuntary servitude,0,juvenile,0,2988693,0.0,0.0
+248,2,2016,5,Gulf Coast East,Mississippi,commercial sex act,0,adult,0,2988298,0.0,0.0
+249,2,2016,5,Gulf Coast East,Mississippi,commercial sex act,0,juvenile,0,2988298,0.0,0.0
+250,2,2016,5,Gulf Coast East,Mississippi,involuntary servitude,0,adult,0,2988298,0.0,0.0
+251,2,2016,5,Gulf Coast East,Mississippi,involuntary servitude,0,juvenile,0,2988298,0.0,0.0
+252,3,2017,5,Gulf Coast East,Mississippi,commercial sex act,0,adult,0,2989663,0.0,0.0
+253,3,2017,5,Gulf Coast East,Mississippi,commercial sex act,0,juvenile,0,2989663,0.0,0.0
+254,3,2017,5,Gulf Coast East,Mississippi,involuntary servitude,0,adult,0,2989663,0.0,0.0
+255,3,2017,5,Gulf Coast East,Mississippi,involuntary servitude,0,juvenile,0,2989663,0.0,0.0
+256,0,2014,12,Northeast,Montana,commercial sex act,1,adult,0,1021891,0.09785779500944818,0.0
+257,0,2014,12,Northeast,Montana,commercial sex act,1,juvenile,0,1021891,0.09785779500944818,0.0
+258,0,2014,12,Northeast,Montana,involuntary servitude,0,adult,0,1021891,0.0,0.0
+259,0,2014,12,Northeast,Montana,involuntary servitude,0,juvenile,0,1021891,0.0,0.0
+260,1,2015,12,Northeast,Montana,commercial sex act,0,adult,0,1030503,0.0,0.0
+261,1,2015,12,Northeast,Montana,commercial sex act,0,juvenile,0,1030503,0.0,0.0
+262,1,2015,12,Northeast,Montana,involuntary servitude,0,adult,0,1030503,0.0,0.0
+263,1,2015,12,Northeast,Montana,involuntary servitude,0,juvenile,0,1030503,0.0,0.0
+264,2,2016,12,Northeast,Montana,commercial sex act,1,adult,0,1040863,0.09607412310745987,0.0
+265,2,2016,12,Northeast,Montana,commercial sex act,1,juvenile,0,1040863,0.09607412310745987,0.0
+266,2,2016,12,Northeast,Montana,involuntary servitude,0,adult,0,1040863,0.0,0.0
+267,2,2016,12,Northeast,Montana,involuntary servitude,0,juvenile,0,1040863,0.0,0.0
+268,3,2017,12,Northeast,Montana,commercial sex act,2,adult,0,1053090,0.1899172910197609,0.0
+269,3,2017,12,Northeast,Montana,commercial sex act,2,juvenile,0,1053090,0.1899172910197609,0.0
+270,3,2017,12,Northeast,Montana,involuntary servitude,0,adult,0,1053090,0.0,0.0
+271,3,2017,12,Northeast,Montana,involuntary servitude,0,juvenile,0,1053090,0.0,0.0
+272,0,2014,9,Southwest/Pacific,Nevada,commercial sex act,0,adult,0,2819012,0.0,0.0
+273,0,2014,9,Southwest/Pacific,Nevada,commercial sex act,0,juvenile,0,2819012,0.0,0.0
+274,0,2014,9,Southwest/Pacific,Nevada,involuntary servitude,0,adult,0,2819012,0.0,0.0
+275,0,2014,9,Southwest/Pacific,Nevada,involuntary servitude,0,juvenile,0,2819012,0.0,0.0
+276,1,2015,9,Southwest/Pacific,Nevada,commercial sex act,214,adult,48,2868666,7.459913423173002,1.6732516089360001
+277,1,2015,9,Southwest/Pacific,Nevada,commercial sex act,214,juvenile,1,2868666,7.459913423173002,0.0348594085195
+278,1,2015,9,Southwest/Pacific,Nevada,involuntary servitude,2,adult,0,2868666,0.069718817039,0.0
+279,1,2015,9,Southwest/Pacific,Nevada,involuntary servitude,2,juvenile,0,2868666,0.069718817039,0.0
+280,2,2016,9,Southwest/Pacific,Nevada,commercial sex act,140,adult,23,2919772,4.79489494385178,0.7877327407756496
+281,2,2016,9,Southwest/Pacific,Nevada,commercial sex act,140,juvenile,35,2919772,4.79489494385178,1.198723735962945
+282,2,2016,9,Southwest/Pacific,Nevada,involuntary servitude,0,adult,0,2919772,0.0,0.0
+283,2,2016,9,Southwest/Pacific,Nevada,involuntary servitude,0,juvenile,0,2919772,0.0,0.0
+284,3,2017,9,Southwest/Pacific,Nevada,commercial sex act,5,adult,0,2972405,0.16821395469325345,0.0
+285,3,2017,9,Southwest/Pacific,Nevada,commercial sex act,5,juvenile,0,2972405,0.16821395469325345,0.0
+286,3,2017,9,Southwest/Pacific,Nevada,involuntary servitude,0,adult,0,2972405,0.0,0.0
+287,3,2017,9,Southwest/Pacific,Nevada,involuntary servitude,0,juvenile,0,2972405,0.0,0.0
+288,0,2014,6,Central,Ohio,commercial sex act,0,adult,0,11602973,0.0,0.0
+289,0,2014,6,Central,Ohio,commercial sex act,0,juvenile,0,11602973,0.0,0.0
+290,0,2014,6,Central,Ohio,involuntary servitude,0,adult,0,11602973,0.0,0.0
+291,0,2014,6,Central,Ohio,involuntary servitude,0,juvenile,0,11602973,0.0,0.0
+292,1,2015,6,Central,Ohio,commercial sex act,3,adult,2,11617850,0.025822333736448655,0.017214889157632435
+293,1,2015,6,Central,Ohio,commercial sex act,3,juvenile,0,11617850,0.025822333736448655,0.0
+294,1,2015,6,Central,Ohio,involuntary servitude,0,adult,0,11617850,0.0,0.0
+295,1,2015,6,Central,Ohio,involuntary servitude,0,juvenile,0,11617850,0.0,0.0
+296,2,2016,6,Central,Ohio,commercial sex act,1,adult,0,11635003,0.008594754982014187,0.0
+297,2,2016,6,Central,Ohio,commercial sex act,1,juvenile,0,11635003,0.008594754982014187,0.0
+298,2,2016,6,Central,Ohio,involuntary servitude,0,adult,0,11635003,0.0,0.0
+299,2,2016,6,Central,Ohio,involuntary servitude,0,juvenile,0,11635003,0.0,0.0
+300,3,2017,6,Central,Ohio,commercial sex act,0,adult,0,11664129,0.0,0.0
+301,3,2017,6,Central,Ohio,commercial sex act,0,juvenile,0,11664129,0.0,0.0
+302,3,2017,6,Central,Ohio,involuntary servitude,0,adult,0,11664129,0.0,0.0
+303,3,2017,6,Central,Ohio,involuntary servitude,0,juvenile,0,11664129,0.0,0.0
+304,0,2014,10,Rockies/Mid-West,Oklahoma,commercial sex act,10,adult,7,3878367,0.2578404777062099,0.18048833439434692
+305,0,2014,10,Rockies/Mid-West,Oklahoma,commercial sex act,10,juvenile,0,3878367,0.2578404777062099,0.0
+306,0,2014,10,Rockies/Mid-West,Oklahoma,involuntary servitude,0,adult,0,3878367,0.0,0.0
+307,0,2014,10,Rockies/Mid-West,Oklahoma,involuntary servitude,0,juvenile,0,3878367,0.0,0.0
+308,1,2015,10,Rockies/Mid-West,Oklahoma,commercial sex act,38,adult,26,3909831,0.9719090160162933,0.6649903793795691
+309,1,2015,10,Rockies/Mid-West,Oklahoma,commercial sex act,38,juvenile,1,3909831,0.9719090160162933,0.025576553053060353
+310,1,2015,10,Rockies/Mid-West,Oklahoma,involuntary servitude,2,adult,1,3909831,0.051153106106120706,0.025576553053060353
+311,1,2015,10,Rockies/Mid-West,Oklahoma,involuntary servitude,2,juvenile,0,3909831,0.051153106106120706,0.0
+312,2,2016,10,Rockies/Mid-West,Oklahoma,commercial sex act,42,adult,36,3926769,1.0695816331441956,0.9167842569807392
+313,2,2016,10,Rockies/Mid-West,Oklahoma,commercial sex act,42,juvenile,1,3926769,1.0695816331441956,0.02546622936057609
+314,2,2016,10,Rockies/Mid-West,Oklahoma,involuntary servitude,4,adult,3,3926769,0.10186491744230436,0.07639868808172826
+315,2,2016,10,Rockies/Mid-West,Oklahoma,involuntary servitude,4,juvenile,0,3926769,0.10186491744230436,0.0
+316,3,2017,10,Rockies/Mid-West,Oklahoma,commercial sex act,25,adult,15,3932640,0.6357052768623621,0.38142316611741733
+317,3,2017,10,Rockies/Mid-West,Oklahoma,commercial sex act,25,juvenile,2,3932640,0.6357052768623621,0.05085642214898898
+318,3,2017,10,Rockies/Mid-West,Oklahoma,involuntary servitude,0,adult,0,3932640,0.0,0.0
+319,3,2017,10,Rockies/Mid-West,Oklahoma,involuntary servitude,0,juvenile,0,3932640,0.0,0.0
+320,0,2014,12,Northeast,Oregon,commercial sex act,0,adult,0,3964106,0.0,0.0
+321,0,2014,12,Northeast,Oregon,commercial sex act,0,juvenile,0,3964106,0.0,0.0
+322,0,2014,12,Northeast,Oregon,involuntary servitude,0,adult,0,3964106,0.0,0.0
+323,0,2014,12,Northeast,Oregon,involuntary servitude,0,juvenile,0,3964106,0.0,0.0
+324,1,2015,12,Northeast,Oregon,commercial sex act,0,adult,0,4016918,0.0,0.0
+325,1,2015,12,Northeast,Oregon,commercial sex act,0,juvenile,0,4016918,0.0,0.0
+326,1,2015,12,Northeast,Oregon,involuntary servitude,0,adult,0,4016918,0.0,0.0
+327,1,2015,12,Northeast,Oregon,involuntary servitude,0,juvenile,0,4016918,0.0,0.0
+328,2,2016,12,Northeast,Oregon,commercial sex act,0,adult,0,4091404,0.0,0.0
+329,2,2016,12,Northeast,Oregon,commercial sex act,0,juvenile,0,4091404,0.0,0.0
+330,2,2016,12,Northeast,Oregon,involuntary servitude,0,adult,0,4091404,0.0,0.0
+331,2,2016,12,Northeast,Oregon,involuntary servitude,0,juvenile,0,4091404,0.0,0.0
+332,3,2017,12,Northeast,Oregon,commercial sex act,1,adult,0,4146592,0.024116189873515406,0.0
+333,3,2017,12,Northeast,Oregon,commercial sex act,1,juvenile,0,4146592,0.024116189873515406,0.0
+334,3,2017,12,Northeast,Oregon,involuntary servitude,0,adult,0,4146592,0.0,0.0
+335,3,2017,12,Northeast,Oregon,involuntary servitude,0,juvenile,0,4146592,0.0,0.0
+336,0,2014,8,Plains,South Dakota,commercial sex act,0,adult,0,849088,0.0,0.0
+337,0,2014,8,Plains,South Dakota,commercial sex act,0,juvenile,0,849088,0.0,0.0
+338,0,2014,8,Plains,South Dakota,involuntary servitude,0,adult,0,849088,0.0,0.0
+339,0,2014,8,Plains,South Dakota,involuntary servitude,0,juvenile,0,849088,0.0,0.0
+340,1,2015,8,Plains,South Dakota,commercial sex act,0,adult,0,853933,0.0,0.0
+341,1,2015,8,Plains,South Dakota,commercial sex act,0,juvenile,0,853933,0.0,0.0
+342,1,2015,8,Plains,South Dakota,involuntary servitude,0,adult,0,853933,0.0,0.0
+343,1,2015,8,Plains,South Dakota,involuntary servitude,0,juvenile,0,853933,0.0,0.0
+344,2,2016,8,Plains,South Dakota,commercial sex act,0,adult,0,862890,0.0,0.0
+345,2,2016,8,Plains,South Dakota,commercial sex act,0,juvenile,0,862890,0.0,0.0
+346,2,2016,8,Plains,South Dakota,involuntary servitude,0,adult,0,862890,0.0,0.0
+347,2,2016,8,Plains,South Dakota,involuntary servitude,0,juvenile,0,862890,0.0,0.0
+348,3,2017,8,Plains,South Dakota,commercial sex act,3,adult,0,873286,0.34353006918695594,0.0
+349,3,2017,8,Plains,South Dakota,commercial sex act,3,juvenile,0,873286,0.34353006918695594,0.0
+350,3,2017,8,Plains,South Dakota,involuntary servitude,0,adult,0,873286,0.0,0.0
+351,3,2017,8,Plains,South Dakota,involuntary servitude,0,juvenile,0,873286,0.0,0.0
+352,0,2014,6,Central,Tennessee,commercial sex act,29,adult,0,6540826,0.44336907907349926,0.0
+353,0,2014,6,Central,Tennessee,commercial sex act,29,juvenile,0,6540826,0.44336907907349926,0.0
+354,0,2014,6,Central,Tennessee,involuntary servitude,1,adult,0,6540826,0.01528858893356894,0.0
+355,0,2014,6,Central,Tennessee,involuntary servitude,1,juvenile,0,6540826,0.01528858893356894,0.0
+356,1,2015,6,Central,Tennessee,commercial sex act,32,adult,10,6590808,0.4855246883234954,0.1517264651010923
+357,1,2015,6,Central,Tennessee,commercial sex act,32,juvenile,0,6590808,0.4855246883234954,0.0
+358,1,2015,6,Central,Tennessee,involuntary servitude,3,adult,1,6590808,0.04551793953032769,0.01517264651010923
+359,1,2015,6,Central,Tennessee,involuntary servitude,3,juvenile,0,6590808,0.04551793953032769,0.0
+360,2,2016,6,Central,Tennessee,commercial sex act,55,adult,26,6645011,0.8276886223363663,0.3912709851044641
+361,2,2016,6,Central,Tennessee,commercial sex act,55,juvenile,0,6645011,0.8276886223363663,0.0
+362,2,2016,6,Central,Tennessee,involuntary servitude,0,adult,0,6645011,0.0,0.0
+363,2,2016,6,Central,Tennessee,involuntary servitude,0,juvenile,0,6645011,0.0,0.0
+364,3,2017,6,Central,Tennessee,commercial sex act,75,adult,10,6708794,1.1179356528162887,0.1490580870421718
+365,3,2017,6,Central,Tennessee,commercial sex act,75,juvenile,1,6708794,1.1179356528162887,0.014905808704217182
+366,3,2017,6,Central,Tennessee,involuntary servitude,4,adult,0,6708794,0.05962323481686873,0.0
+367,3,2017,6,Central,Tennessee,involuntary servitude,4,juvenile,0,6708794,0.05962323481686873,0.0
+368,0,2014,11,Gulf Coast West,Texas,commercial sex act,78,adult,17,26977142,0.2891336673099026,0.06301631210600442
+369,0,2014,11,Gulf Coast West,Texas,commercial sex act,78,juvenile,5,26977142,0.2891336673099026,0.018534209442942474
+370,0,2014,11,Gulf Coast West,Texas,involuntary servitude,113,adult,14,26977142,0.41887313341049986,0.05189578644023892
+371,0,2014,11,Gulf Coast West,Texas,involuntary servitude,113,juvenile,3,26977142,0.41887313341049986,0.011120525665765484
+372,1,2015,11,Gulf Coast West,Texas,commercial sex act,98,adult,30,27486814,0.3565345914590174,0.10914324228337269
+373,1,2015,11,Gulf Coast West,Texas,commercial sex act,98,juvenile,0,27486814,0.3565345914590174,0.0
+374,1,2015,11,Gulf Coast West,Texas,involuntary servitude,187,adult,71,27486814,0.680326210233023,0.25830567340398203
+375,1,2015,11,Gulf Coast West,Texas,involuntary servitude,187,juvenile,0,27486814,0.680326210233023,0.0
+376,2,2016,11,Gulf Coast West,Texas,commercial sex act,130,adult,49,27937492,0.46532451803476127,0.17539154910541005
+377,2,2016,11,Gulf Coast West,Texas,commercial sex act,130,juvenile,2,27937492,0.46532451803476127,0.007158838738996328
+378,2,2016,11,Gulf Coast West,Texas,involuntary servitude,127,adult,27,27937492,0.4545862599262669,0.09664432297645041
+379,2,2016,11,Gulf Coast West,Texas,involuntary servitude,127,juvenile,0,27937492,0.4545862599262669,0.0
+380,3,2017,11,Gulf Coast West,Texas,commercial sex act,193,adult,78,28322717,0.6814317990749262,0.27539730739815677
+381,3,2017,11,Gulf Coast West,Texas,commercial sex act,193,juvenile,4,28322717,0.6814317990749262,0.014122938840931116
+382,3,2017,11,Gulf Coast West,Texas,involuntary servitude,119,adult,43,28322717,0.4201574305177007,0.1518215925400095
+383,3,2017,11,Gulf Coast West,Texas,involuntary servitude,119,juvenile,16,28322717,0.4201574305177007,0.056491755363724465
+384,0,2014,10,Rockies/Mid-West,Utah,commercial sex act,0,adult,0,2937399,0.0,0.0
+385,0,2014,10,Rockies/Mid-West,Utah,commercial sex act,0,juvenile,0,2937399,0.0,0.0
+386,0,2014,10,Rockies/Mid-West,Utah,involuntary servitude,0,adult,0,2937399,0.0,0.0
+387,0,2014,10,Rockies/Mid-West,Utah,involuntary servitude,0,juvenile,0,2937399,0.0,0.0
+388,1,2015,10,Rockies/Mid-West,Utah,commercial sex act,0,adult,0,2982497,0.0,0.0
+389,1,2015,10,Rockies/Mid-West,Utah,commercial sex act,0,juvenile,0,2982497,0.0,0.0
+390,1,2015,10,Rockies/Mid-West,Utah,involuntary servitude,0,adult,0,2982497,0.0,0.0
+391,1,2015,10,Rockies/Mid-West,Utah,involuntary servitude,0,juvenile,0,2982497,0.0,0.0
+392,2,2016,10,Rockies/Mid-West,Utah,commercial sex act,0,adult,0,3042613,0.0,0.0
+393,2,2016,10,Rockies/Mid-West,Utah,commercial sex act,0,juvenile,0,3042613,0.0,0.0
+394,2,2016,10,Rockies/Mid-West,Utah,involuntary servitude,0,adult,0,3042613,0.0,0.0
+395,2,2016,10,Rockies/Mid-West,Utah,involuntary servitude,0,juvenile,0,3042613,0.0,0.0
+396,3,2017,10,Rockies/Mid-West,Utah,commercial sex act,1,adult,0,3103118,0.03222565174769377,0.0
+397,3,2017,10,Rockies/Mid-West,Utah,commercial sex act,1,juvenile,0,3103118,0.03222565174769377,0.0
+398,3,2017,10,Rockies/Mid-West,Utah,involuntary servitude,0,adult,0,3103118,0.0,0.0
+399,3,2017,10,Rockies/Mid-West,Utah,involuntary servitude,0,juvenile,0,3103118,0.0,0.0
+400,0,2014,5,Gulf Coast East,U.S. Virgin Islands,commercial sex act,0,adult,0,107884,0.0,0.0
+401,0,2014,5,Gulf Coast East,U.S. Virgin Islands,commercial sex act,0,juvenile,0,107884,0.0,0.0
+402,0,2014,5,Gulf Coast East,U.S. Virgin Islands,involuntary servitude,0,adult,0,107884,0.0,0.0
+403,0,2014,5,Gulf Coast East,U.S. Virgin Islands,involuntary servitude,0,juvenile,0,107884,0.0,0.0
+404,1,2015,5,Gulf Coast East,U.S. Virgin Islands,commercial sex act,0,adult,0,107710,0.0,0.0
+405,1,2015,5,Gulf Coast East,U.S. Virgin Islands,commercial sex act,0,juvenile,0,107710,0.0,0.0
+406,1,2015,5,Gulf Coast East,U.S. Virgin Islands,involuntary servitude,0,adult,0,107710,0.0,0.0
+407,1,2015,5,Gulf Coast East,U.S. Virgin Islands,involuntary servitude,0,juvenile,0,107710,0.0,0.0
+408,2,2016,5,Gulf Coast East,U.S. Virgin Islands,commercial sex act,0,adult,0,107510,0.0,0.0
+409,2,2016,5,Gulf Coast East,U.S. Virgin Islands,commercial sex act,0,juvenile,0,107510,0.0,0.0
+410,2,2016,5,Gulf Coast East,U.S. Virgin Islands,involuntary servitude,0,adult,0,107510,0.0,0.0
+411,2,2016,5,Gulf Coast East,U.S. Virgin Islands,involuntary servitude,0,juvenile,0,107510,0.0,0.0
+412,0,2014,12,Northeast,Washington,commercial sex act,2,adult,0,7052439,0.02835898332477601,0.0
+413,0,2014,12,Northeast,Washington,commercial sex act,2,juvenile,0,7052439,0.02835898332477601,0.0
+414,0,2014,12,Northeast,Washington,involuntary servitude,0,adult,0,7052439,0.0,0.0
+415,0,2014,12,Northeast,Washington,involuntary servitude,0,juvenile,0,7052439,0.0,0.0
+416,1,2015,12,Northeast,Washington,commercial sex act,1,adult,0,7163543,0.013959572797985577,0.0
+417,1,2015,12,Northeast,Washington,commercial sex act,1,juvenile,0,7163543,0.013959572797985577,0.0
+418,1,2015,12,Northeast,Washington,involuntary servitude,0,adult,0,7163543,0.0,0.0
+419,1,2015,12,Northeast,Washington,involuntary servitude,0,juvenile,0,7163543,0.0,0.0
+420,2,2016,12,Northeast,Washington,commercial sex act,13,adult,3,7294680,0.1782120668761344,0.04112586158680024
+421,2,2016,12,Northeast,Washington,commercial sex act,13,juvenile,0,7294680,0.1782120668761344,0.0
+422,2,2016,12,Northeast,Washington,involuntary servitude,1,adult,1,7294680,0.013708620528933414,0.013708620528933414
+423,2,2016,12,Northeast,Washington,involuntary servitude,1,juvenile,0,7294680,0.013708620528933414,0.0
+424,3,2017,12,Northeast,Washington,commercial sex act,29,adult,6,7425432,0.39054966768263444,0.08080337952054507
+425,3,2017,12,Northeast,Washington,commercial sex act,29,juvenile,0,7425432,0.39054966768263444,0.0
+426,3,2017,12,Northeast,Washington,involuntary servitude,1,adult,1,7425432,0.013467229920090843,0.013467229920090843
+427,3,2017,12,Northeast,Washington,involuntary servitude,1,juvenile,0,7425432,0.013467229920090843,0.0
+428,0,2014,10,Rockies/Mid-West,Wyoming,commercial sex act,0,adult,0,582548,0.0,0.0
+429,0,2014,10,Rockies/Mid-West,Wyoming,commercial sex act,0,juvenile,0,582548,0.0,0.0
+430,0,2014,10,Rockies/Mid-West,Wyoming,involuntary servitude,1,adult,0,582548,0.1716596743959296,0.0
+431,0,2014,10,Rockies/Mid-West,Wyoming,involuntary servitude,1,juvenile,0,582548,0.1716596743959296,0.0
+432,1,2015,10,Rockies/Mid-West,Wyoming,commercial sex act,0,adult,0,585668,0.0,0.0
+433,1,2015,10,Rockies/Mid-West,Wyoming,commercial sex act,0,juvenile,0,585668,0.0,0.0
+434,1,2015,10,Rockies/Mid-West,Wyoming,involuntary servitude,1,adult,0,585668,0.17074520035241808,0.0
+435,1,2015,10,Rockies/Mid-West,Wyoming,involuntary servitude,1,juvenile,0,585668,0.17074520035241808,0.0
+436,2,2016,10,Rockies/Mid-West,Wyoming,commercial sex act,3,adult,2,584290,0.5134436666723716,0.34229577778158105
+437,2,2016,10,Rockies/Mid-West,Wyoming,commercial sex act,3,juvenile,0,584290,0.5134436666723716,0.0
+438,2,2016,10,Rockies/Mid-West,Wyoming,involuntary servitude,2,adult,1,584290,0.34229577778158105,0.17114788889079052
+439,2,2016,10,Rockies/Mid-West,Wyoming,involuntary servitude,2,juvenile,0,584290,0.34229577778158105,0.0
+440,3,2017,10,Rockies/Mid-West,Wyoming,commercial sex act,2,adult,1,578934,0.34546252249824677,0.17273126124912339
+441,3,2017,10,Rockies/Mid-West,Wyoming,commercial sex act,2,juvenile,1,578934,0.34546252249824677,0.17273126124912339
+442,3,2017,10,Rockies/Mid-West,Wyoming,involuntary servitude,0,adult,0,578934,0.0,0.0
+443,3,2017,10,Rockies/Mid-West,Wyoming,involuntary servitude,0,juvenile,0,578934,0.0,0.0
+444,1,2015,8,Plains,Arkansas,commercial sex act,5,adult,2,2978407,0.16787497477678504,0.06714998991071401
+445,1,2015,8,Plains,Arkansas,commercial sex act,5,juvenile,0,2978407,0.16787497477678504,0.0
+446,1,2015,8,Plains,Arkansas,involuntary servitude,0,adult,0,2978407,0.0,0.0
+447,1,2015,8,Plains,Arkansas,involuntary servitude,0,juvenile,0,2978407,0.0,0.0
+448,2,2016,8,Plains,Arkansas,commercial sex act,4,adult,4,2990410,0.13376092241532098,0.13376092241532098
+449,2,2016,8,Plains,Arkansas,commercial sex act,4,juvenile,0,2990410,0.13376092241532098,0.0
+450,2,2016,8,Plains,Arkansas,involuntary servitude,2,adult,0,2990410,0.06688046120766049,0.0
+451,2,2016,8,Plains,Arkansas,involuntary servitude,2,juvenile,0,2990410,0.06688046120766049,0.0
+452,3,2017,8,Plains,Arkansas,commercial sex act,0,adult,0,3002997,0.0,0.0
+453,3,2017,8,Plains,Arkansas,commercial sex act,0,juvenile,0,3002997,0.0,0.0
+454,3,2017,8,Plains,Arkansas,involuntary servitude,0,adult,0,3002997,0.0,0.0
+455,3,2017,8,Plains,Arkansas,involuntary servitude,0,juvenile,0,3002997,0.0,0.0
+456,1,2015,2,Mideast North,Connecticut,commercial sex act,0,adult,0,3587509,0.0,0.0
+457,1,2015,2,Mideast North,Connecticut,commercial sex act,0,juvenile,0,3587509,0.0,0.0
+458,1,2015,2,Mideast North,Connecticut,involuntary servitude,0,adult,0,3587509,0.0,0.0
+459,1,2015,2,Mideast North,Connecticut,involuntary servitude,0,juvenile,0,3587509,0.0,0.0
+460,2,2016,2,Mideast North,Connecticut,commercial sex act,1,adult,0,3578674,0.027943310846419652,0.0
+461,2,2016,2,Mideast North,Connecticut,commercial sex act,1,juvenile,0,3578674,0.027943310846419652,0.0
+462,2,2016,2,Mideast North,Connecticut,involuntary servitude,1,adult,0,3578674,0.027943310846419652,0.0
+463,2,2016,2,Mideast North,Connecticut,involuntary servitude,1,juvenile,0,3578674,0.027943310846419652,0.0
+464,3,2017,2,Mideast North,Connecticut,commercial sex act,8,adult,0,3573880,0.22384635186408047,0.0
+465,3,2017,2,Mideast North,Connecticut,commercial sex act,8,juvenile,0,3573880,0.22384635186408047,0.0
+466,3,2017,2,Mideast North,Connecticut,involuntary servitude,0,adult,0,3573880,0.0,0.0
+467,3,2017,2,Mideast North,Connecticut,involuntary servitude,0,juvenile,0,3573880,0.0,0.0
+468,1,2015,11,Gulf Coast West,Louisiana,commercial sex act,51,adult,40,4664851,1.093282507844302,0.857476476740629
+469,1,2015,11,Gulf Coast West,Louisiana,commercial sex act,51,juvenile,1,4664851,1.093282507844302,0.021436911918515725
+470,1,2015,11,Gulf Coast West,Louisiana,involuntary servitude,0,adult,0,4664851,0.0,0.0
+471,1,2015,11,Gulf Coast West,Louisiana,involuntary servitude,0,juvenile,0,4664851,0.0,0.0
+472,2,2016,11,Gulf Coast West,Louisiana,commercial sex act,121,adult,90,4678215,2.5864565865399514,1.9238106842032698
+473,2,2016,11,Gulf Coast West,Louisiana,commercial sex act,121,juvenile,2,4678215,2.5864565865399514,0.04275134853785044
+474,2,2016,11,Gulf Coast West,Louisiana,involuntary servitude,2,adult,2,4678215,0.04275134853785044,0.04275134853785044
+475,2,2016,11,Gulf Coast West,Louisiana,involuntary servitude,2,juvenile,0,4678215,0.04275134853785044,0.0
+476,3,2017,11,Gulf Coast West,Louisiana,commercial sex act,59,adult,47,4670818,1.2631620414240075,1.0062477279140398
+477,3,2017,11,Gulf Coast West,Louisiana,commercial sex act,59,juvenile,0,4670818,1.2631620414240075,0.0
+478,3,2017,11,Gulf Coast West,Louisiana,involuntary servitude,2,adult,2,4670818,0.04281905225166127,0.04281905225166127
+479,3,2017,11,Gulf Coast West,Louisiana,involuntary servitude,2,juvenile,0,4670818,0.04281905225166127,0.0
+480,1,2015,1,New England,Maine,commercial sex act,0,adult,0,1328484,0.0,0.0
+481,1,2015,1,New England,Maine,commercial sex act,0,juvenile,0,1328484,0.0,0.0
+482,1,2015,1,New England,Maine,involuntary servitude,0,adult,0,1328484,0.0,0.0
+483,1,2015,1,New England,Maine,involuntary servitude,0,juvenile,0,1328484,0.0,0.0
+484,3,2017,1,New England,Maine,commercial sex act,2,adult,0,1335063,0.14980566460159558,0.0
+485,3,2017,1,New England,Maine,commercial sex act,2,juvenile,0,1335063,0.14980566460159558,0.0
+486,3,2017,1,New England,Maine,involuntary servitude,0,adult,0,1335063,0.0,0.0
+487,3,2017,1,New England,Maine,involuntary servitude,0,juvenile,0,1335063,0.0,0.0
+488,1,2015,4,Mid-Atlantic,Maryland,commercial sex act,27,adult,22,5986717,0.45099843536950224,0.3674802065973722
+489,1,2015,4,Mid-Atlantic,Maryland,commercial sex act,27,juvenile,0,5986717,0.45099843536950224,0.0
+490,1,2015,4,Mid-Atlantic,Maryland,involuntary servitude,1,adult,1,5986717,0.016703645754426007,0.016703645754426007
+491,1,2015,4,Mid-Atlantic,Maryland,involuntary servitude,1,juvenile,0,5986717,0.016703645754426007,0.0
+492,2,2016,4,Mid-Atlantic,Maryland,commercial sex act,17,adult,15,6004692,0.2831119397964125,0.24980465276154049
+493,2,2016,4,Mid-Atlantic,Maryland,commercial sex act,17,juvenile,0,6004692,0.2831119397964125,0.0
+494,2,2016,4,Mid-Atlantic,Maryland,involuntary servitude,0,adult,0,6004692,0.0,0.0
+495,2,2016,4,Mid-Atlantic,Maryland,involuntary servitude,0,juvenile,0,6004692,0.0,0.0
+496,3,2017,4,Mid-Atlantic,Maryland,commercial sex act,0,adult,0,6024891,0.0,0.0
+497,3,2017,4,Mid-Atlantic,Maryland,commercial sex act,0,juvenile,0,6024891,0.0,0.0
+498,3,2017,4,Mid-Atlantic,Maryland,involuntary servitude,0,adult,0,6024891,0.0,0.0
+499,3,2017,4,Mid-Atlantic,Maryland,involuntary servitude,0,juvenile,0,6024891,0.0,0.0
+500,1,2015,8,Plains,Nebraska,commercial sex act,0,adult,0,1891507,0.0,0.0
+501,1,2015,8,Plains,Nebraska,commercial sex act,0,juvenile,0,1891507,0.0,0.0
+502,1,2015,8,Plains,Nebraska,involuntary servitude,0,adult,0,1891507,0.0,0.0
+503,1,2015,8,Plains,Nebraska,involuntary servitude,0,juvenile,0,1891507,0.0,0.0
+504,3,2017,8,Plains,Nebraska,commercial sex act,0,adult,0,1917575,0.0,0.0
+505,3,2017,8,Plains,Nebraska,commercial sex act,0,juvenile,0,1917575,0.0,0.0
+506,3,2017,8,Plains,Nebraska,involuntary servitude,0,adult,0,1917575,0.0,0.0
+507,3,2017,8,Plains,Nebraska,involuntary servitude,0,juvenile,0,1917575,0.0,0.0
+508,1,2015,2,Mideast North,New York,commercial sex act,0,adult,0,19661411,0.0,0.0
+509,1,2015,2,Mideast North,New York,commercial sex act,0,juvenile,0,19661411,0.0,0.0
+510,1,2015,2,Mideast North,New York,involuntary servitude,0,adult,0,19661411,0.0,0.0
+511,1,2015,2,Mideast North,New York,involuntary servitude,0,juvenile,0,19661411,0.0,0.0
+512,3,2017,2,Mideast North,New York,commercial sex act,0,adult,0,19590719,0.0,0.0
+513,3,2017,2,Mideast North,New York,commercial sex act,0,juvenile,0,19590719,0.0,0.0
+514,3,2017,2,Mideast North,New York,involuntary servitude,0,adult,0,19590719,0.0,0.0
+515,3,2017,2,Mideast North,New York,involuntary servitude,0,juvenile,0,19590719,0.0,0.0
+516,1,2015,4,Mid-Atlantic,North Carolina,commercial sex act,0,adult,0,10033079,0.0,0.0
+517,1,2015,4,Mid-Atlantic,North Carolina,commercial sex act,0,juvenile,0,10033079,0.0,0.0
+518,1,2015,4,Mid-Atlantic,North Carolina,involuntary servitude,0,adult,0,10033079,0.0,0.0
+519,1,2015,4,Mid-Atlantic,North Carolina,involuntary servitude,0,juvenile,0,10033079,0.0,0.0
+520,3,2017,4,Mid-Atlantic,North Carolina,commercial sex act,0,adult,0,10270800,0.0,0.0
+521,3,2017,4,Mid-Atlantic,North Carolina,commercial sex act,0,juvenile,0,10270800,0.0,0.0
+522,3,2017,4,Mid-Atlantic,North Carolina,involuntary servitude,0,adult,0,10270800,0.0,0.0
+523,3,2017,4,Mid-Atlantic,North Carolina,involuntary servitude,0,juvenile,0,10270800,0.0,0.0
+524,1,2015,5,Gulf Coast East,Puerto Rico,commercial sex act,0,adult,0,3473166,0.0,0.0
+525,1,2015,5,Gulf Coast East,Puerto Rico,commercial sex act,0,juvenile,0,3473166,0.0,0.0
+526,1,2015,5,Gulf Coast East,Puerto Rico,involuntary servitude,0,adult,0,3473166,0.0,0.0
+527,1,2015,5,Gulf Coast East,Puerto Rico,involuntary servitude,0,juvenile,0,3473166,0.0,0.0
+528,2,2016,5,Gulf Coast East,Puerto Rico,commercial sex act,0,adult,0,3406495,0.0,0.0
+529,2,2016,5,Gulf Coast East,Puerto Rico,commercial sex act,0,juvenile,0,3406495,0.0,0.0
+530,2,2016,5,Gulf Coast East,Puerto Rico,involuntary servitude,0,adult,0,3406495,0.0,0.0
+531,2,2016,5,Gulf Coast East,Puerto Rico,involuntary servitude,0,juvenile,0,3406495,0.0,0.0
+532,3,2017,5,Gulf Coast East,Puerto Rico,commercial sex act,0,adult,0,3325001,0.0,0.0
+533,3,2017,5,Gulf Coast East,Puerto Rico,commercial sex act,0,juvenile,0,3325001,0.0,0.0
+534,3,2017,5,Gulf Coast East,Puerto Rico,involuntary servitude,0,adult,0,3325001,0.0,0.0
+535,3,2017,5,Gulf Coast East,Puerto Rico,involuntary servitude,0,juvenile,0,3325001,0.0,0.0
+536,1,2015,1,New England,Rhode Island,commercial sex act,0,adult,0,1056173,0.0,0.0
+537,1,2015,1,New England,Rhode Island,commercial sex act,0,juvenile,0,1056173,0.0,0.0
+538,1,2015,1,New England,Rhode Island,involuntary servitude,0,adult,0,1056173,0.0,0.0
+539,1,2015,1,New England,Rhode Island,involuntary servitude,0,juvenile,0,1056173,0.0,0.0
+540,2,2016,1,New England,Rhode Island,commercial sex act,5,adult,2,1057063,0.4730087043061766,0.18920348172247067
+541,2,2016,1,New England,Rhode Island,commercial sex act,5,juvenile,0,1057063,0.4730087043061766,0.0
+542,2,2016,1,New England,Rhode Island,involuntary servitude,1,adult,0,1057063,0.09460174086123534,0.0
+543,2,2016,1,New England,Rhode Island,involuntary servitude,1,juvenile,0,1057063,0.09460174086123534,0.0
+544,3,2017,1,New England,Rhode Island,commercial sex act,12,adult,3,1056486,1.1358408914079317,0.2839602228519829
+545,3,2017,1,New England,Rhode Island,commercial sex act,12,juvenile,0,1056486,1.1358408914079317,0.0
+546,3,2017,1,New England,Rhode Island,involuntary servitude,1,adult,1,1056486,0.09465340761732763,0.09465340761732763
+547,3,2017,1,New England,Rhode Island,involuntary servitude,1,juvenile,0,1056486,0.09465340761732763,0.0
+548,1,2015,4,Mid-Atlantic,South Carolina,commercial sex act,10,adult,5,4892253,0.20440480081467577,0.10220240040733788
+549,1,2015,4,Mid-Atlantic,South Carolina,commercial sex act,10,juvenile,0,4892253,0.20440480081467577,0.0
+550,1,2015,4,Mid-Atlantic,South Carolina,involuntary servitude,4,adult,0,4892253,0.08176192032587032,0.0
+551,1,2015,4,Mid-Atlantic,South Carolina,involuntary servitude,4,juvenile,0,4892253,0.08176192032587032,0.0
+552,2,2016,4,Mid-Atlantic,South Carolina,commercial sex act,15,adult,7,4958235,0.302527008098648,0.14117927044603573
+553,2,2016,4,Mid-Atlantic,South Carolina,commercial sex act,15,juvenile,2,4958235,0.302527008098648,0.040336934413153065
+554,2,2016,4,Mid-Atlantic,South Carolina,involuntary servitude,7,adult,7,4958235,0.14117927044603573,0.14117927044603573
+555,2,2016,4,Mid-Atlantic,South Carolina,involuntary servitude,7,juvenile,0,4958235,0.14117927044603573,0.0
+556,3,2017,4,Mid-Atlantic,South Carolina,commercial sex act,26,adult,1,5021219,0.5178025495402611,0.019915482674625427
+557,3,2017,4,Mid-Atlantic,South Carolina,commercial sex act,26,juvenile,1,5021219,0.5178025495402611,0.019915482674625427
+558,3,2017,4,Mid-Atlantic,South Carolina,involuntary servitude,4,adult,0,5021219,0.0796619306985017,0.0
+559,3,2017,4,Mid-Atlantic,South Carolina,involuntary servitude,4,juvenile,0,5021219,0.0796619306985017,0.0
+560,1,2015,7,North Central,Wisconsin,commercial sex act,4,adult,2,5761406,0.06942749738518687,0.03471374869259344
+561,1,2015,7,North Central,Wisconsin,commercial sex act,4,juvenile,0,5761406,0.06942749738518687,0.0
+562,1,2015,7,North Central,Wisconsin,involuntary servitude,0,adult,0,5761406,0.0,0.0
+563,1,2015,7,North Central,Wisconsin,involuntary servitude,0,juvenile,0,5761406,0.0,0.0
+564,2,2016,7,North Central,Wisconsin,commercial sex act,34,adult,18,5772958,0.588952838388916,0.31179856150001434
+565,2,2016,7,North Central,Wisconsin,commercial sex act,34,juvenile,1,5772958,0.588952838388916,0.017322142305556353
+566,2,2016,7,North Central,Wisconsin,involuntary servitude,1,adult,0,5772958,0.017322142305556353,0.0
+567,2,2016,7,North Central,Wisconsin,involuntary servitude,1,juvenile,0,5772958,0.017322142305556353,0.0
+568,3,2017,7,North Central,Wisconsin,commercial sex act,59,adult,16,5792051,1.018637439483872,0.27624066155494836
+569,3,2017,7,North Central,Wisconsin,commercial sex act,59,juvenile,0,5792051,1.018637439483872,0.0
+570,3,2017,7,North Central,Wisconsin,involuntary servitude,6,adult,2,5792051,0.10359024808310562,0.034530082694368545
+571,3,2017,7,North Central,Wisconsin,involuntary servitude,6,juvenile,0,5792051,0.10359024808310562,0.0
+572,2,2016,8,Plains,North Dakota,commercial sex act,4,adult,0,754353,0.5302557290817429,0.0
+573,2,2016,8,Plains,North Dakota,commercial sex act,4,juvenile,0,754353,0.5302557290817429,0.0
+574,2,2016,8,Plains,North Dakota,involuntary servitude,1,adult,1,754353,0.13256393227043572,0.13256393227043572
+575,2,2016,8,Plains,North Dakota,involuntary servitude,1,juvenile,0,754353,0.13256393227043572,0.0
+576,3,2017,8,Plains,North Dakota,commercial sex act,10,adult,0,755176,1.324194624829179,0.0
+577,3,2017,8,Plains,North Dakota,commercial sex act,10,juvenile,0,755176,1.324194624829179,0.0
+578,3,2017,8,Plains,North Dakota,involuntary servitude,1,adult,0,755176,0.1324194624829179,0.0
+579,3,2017,8,Plains,North Dakota,involuntary servitude,1,juvenile,0,755176,0.1324194624829179,0.0
+580,2,2016,2,Mideast North,Vermont,commercial sex act,2,adult,2,623644,0.3206957815676893,0.3206957815676893
+581,2,2016,2,Mideast North,Vermont,commercial sex act,2,juvenile,0,623644,0.3206957815676893,0.0
+582,2,2016,2,Mideast North,Vermont,involuntary servitude,0,adult,0,623644,0.0,0.0
+583,2,2016,2,Mideast North,Vermont,involuntary servitude,0,juvenile,0,623644,0.0,0.0
+584,3,2017,5,Gulf Coast East,Alabama,commercial sex act,0,adult,0,4875120,0.0,0.0
+585,3,2017,5,Gulf Coast East,Alabama,commercial sex act,0,juvenile,0,4875120,0.0,0.0
+586,3,2017,5,Gulf Coast East,Alabama,involuntary servitude,0,adult,0,4875120,0.0,0.0
+587,3,2017,5,Gulf Coast East,Alabama,involuntary servitude,0,juvenile,0,4875120,0.0,0.0
+588,3,2017,5,Gulf Coast East,Georgia,commercial sex act,0,adult,0,10413055,0.0,0.0
+589,3,2017,5,Gulf Coast East,Georgia,commercial sex act,0,juvenile,0,10413055,0.0,0.0
+590,3,2017,5,Gulf Coast East,Georgia,involuntary servitude,0,adult,0,10413055,0.0,0.0
+591,3,2017,5,Gulf Coast East,Georgia,involuntary servitude,0,juvenile,0,10413055,0.0,0.0
+592,3,2017,6,Central,Kentucky,commercial sex act,8,adult,0,4453874,0.17961891153633894,0.0
+593,3,2017,6,Central,Kentucky,commercial sex act,8,juvenile,0,4453874,0.17961891153633894,0.0
+594,3,2017,6,Central,Kentucky,involuntary servitude,14,adult,0,4453874,0.3143330951885931,0.0
+595,3,2017,6,Central,Kentucky,involuntary servitude,14,juvenile,0,4453874,0.3143330951885931,0.0
+596,3,2017,1,New England,New Hampshire,commercial sex act,2,adult,2,1349767,0.14817372183495373,0.14817372183495373
+597,3,2017,1,New England,New Hampshire,commercial sex act,2,juvenile,0,1349767,0.14817372183495373,0.0
+598,3,2017,1,New England,New Hampshire,involuntary servitude,0,adult,0,1349767,0.0,0.0
+599,3,2017,1,New England,New Hampshire,involuntary servitude,0,juvenile,0,1349767,0.0,0.0
+600,3,2017,10,Rockies/Mid-West,New Mexico,commercial sex act,0,adult,0,2093395,0.0,0.0
+601,3,2017,10,Rockies/Mid-West,New Mexico,commercial sex act,0,juvenile,0,2093395,0.0,0.0
+602,3,2017,10,Rockies/Mid-West,New Mexico,involuntary servitude,0,adult,0,2093395,0.0,0.0
+603,3,2017,10,Rockies/Mid-West,New Mexico,involuntary servitude,0,juvenile,0,2093395,0.0,0.0
